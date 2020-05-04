@@ -1,2 +1,2 @@
 # Kaggle
-Kaggle competitions
+Kaggle competitions and other experiments
